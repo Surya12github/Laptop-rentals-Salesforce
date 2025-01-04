@@ -9,7 +9,7 @@ This repository contains the Salesforce CRM application for the Laptop Rentals p
 - Source files for Salesforce setup
 
 ## YouTube Demo
-[Watch the demo video on YouTube](https://youtu.be/your-video-id)
+[Watch the demo video on YouTube](https://youtu.be/LeWEErFds-g?si=TzW7gaW5Q5-1T0vH)
 
 ## How to Use
 1. Clone the repository:
