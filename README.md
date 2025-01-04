@@ -1,12 +1,17 @@
-# Laptop-rentals-Salesforce
-The Laptop Rental Management System is a Salesforce-based solution designed to streamline the laptop rental process, ensure accurate inventory management, and provide timely notifications for overdue rentals.
+# Laptop Rentals CRM Project
 
-Key Features:
-Custom Objects: Laptop Inventory, Rental Records, and Customers.
-Automation: Approval workflows and overdue reminders.
-Insights: Reports and dashboards for rental trends and inventory visibility.
-Validation Rules: Ensure data accuracy.
-Benefits:
-Real-time inventory updates.
-Automated status updates and alerts.
-Comprehensive reporting for better decision-making.
+This repository contains the Salesforce CRM application for the Laptop Rentals project. Below are the key details:
+
+## Files
+- Project documentation
+- Flow configurations
+- Screenshots of results
+- Source files for Salesforce setup
+
+## YouTube Demo
+[Watch the demo video on YouTube](https://youtu.be/your-video-id)
+
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Surya12github/Laptop-Rentals-Salesforce.git
